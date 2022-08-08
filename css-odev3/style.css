@@ -1,0 +1,58 @@
+.logo {
+    margin-top: 150px;
+    margin-left: 500px;
+}
+
+input {
+    width: 600px;
+    height: 41px;
+    margin-top: 28px;
+    border-radius: 22px;
+    border: 1px solid #ccc;
+}
+
+input:hover {
+    box-shadow: 0 5px 16px 0 rgba(0, 0, 0, 0.07), 0 17px 50px 0 rgba(0, 0, 0, 0.144);
+}
+
+button {
+    background-color: #f2f2f2;
+    border: 1px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: Arial;
+    font-size: 14px;
+    text-align: center;
+    color: #5f6368;
+    margin: 8px;
+    padding: auto;
+    margin-top: 30px;
+    height: 36px;
+}
+
+/* liste ogeleri */
+.firstlist {
+    float: right;
+    margin-right: 10px;
+}
+
+.secondlist {
+    float: left;
+    margin-left: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0%;
+}
+
+li {
+    display: inline;
+    margin: 10px;
+    font-size:15px;
+}
+
+/* footer bg color eklenmedi */
+#footerli {
+    margin-top: 280px;
+}
