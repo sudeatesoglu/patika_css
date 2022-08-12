@@ -9,4 +9,6 @@
 ![proje goruntusu](https://user-images.githubusercontent.com/106230756/183418022-59a6ec99-ba52-4770-bf42-1a9ff6fc1e2d.png)
 
 ---
+[patika profilim](https://app.patika.dev/sudeatesoglu)
+<br>
 [patika.dev link](https://app.patika.dev/)
